@@ -18,8 +18,6 @@ for(let i = 0; i < damonsFriends.length; i++) {
 }
 }
 console.log(mutualFriends);
-  
-
 
 const doubleValues = array => {
   let doubledArray = [];
@@ -31,6 +29,11 @@ const doubleValues = array => {
 
 }
 return doubledArray;
+
 }
 
-doubleValues([2, 3, 7, 9]); 
+console.log(doubleValues([2, 3, 7, 9])); 
+
+const addition = (num1, num2) => num1 + num2;
+
+console.log(addition(5, 7));
