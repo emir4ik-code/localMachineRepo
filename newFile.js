@@ -33,6 +33,4 @@ const doubleValues = array => {
 return doubledArray;
 }
 
-
 doubleValues([2, 3, 7, 9]); 
-  
