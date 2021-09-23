@@ -37,3 +37,12 @@ console.log(doubleValues([2, 3, 7, 9]));
 const addition = (num1, num2) => num1 + num2;
 
 console.log(addition(5, 7));
+
+
+console.log("Kayla is cool"); 
+
+
+
+const feetToMeters = feet => feet * 0.3048;
+
+console.log(feetToMeters(3587)); 
