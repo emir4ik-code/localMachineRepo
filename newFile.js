@@ -46,3 +46,6 @@ console.log("Kayla is cool");
 const feetToMeters = feet => feet * 0.3048;
 
 console.log(feetToMeters(3587)); 
+
+
+console.log('Hello my name is Emir');
