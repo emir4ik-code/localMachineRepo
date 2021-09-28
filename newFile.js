@@ -49,3 +49,8 @@ console.log(feetToMeters(3587));
 
 
 console.log('Hello my name is Emir');
+
+
+const helloStudent = studentsName => console.log(`Hello, ${studentsName}! Welcome to the Marcy Lab School`);
+
+console.log(helloStudent('Leo')); 
